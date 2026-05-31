@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdender",
+        "uuid": 1705382,
+        "checksum": "6j3i2"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
